@@ -3,7 +3,7 @@ Docker Compose com Node.js, PostgreSQL e React (com segurança)
 ---
 **Checklist**
 
-☐ Repositório com estrutura correta (pasta e nomes)
+✓ Repositório com estrutura correta (pasta e nomes)
 
 ☐ .env.example presente e .env não comitado
 
