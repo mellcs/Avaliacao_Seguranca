@@ -5,7 +5,7 @@ Docker Compose com Node.js, PostgreSQL e React (com segurança)
 
 ✓ Repositório com estrutura correta (pasta e nomes)
 
-☐ .env.example presente e .env não comitado
+ ✓ .env.example presente e .env não comitado
 
 ☐ docker-compose.yml configurado com webnet e backnet
 
